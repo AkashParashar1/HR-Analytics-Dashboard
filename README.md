@@ -4,7 +4,7 @@
 
 ## PROJECT NAME :<br>
 
-### HR Analytics : A Complete Employee Data Analysis Project using Tableau Dashboard<br><br>
+### HR Analytics Dashboard: A Complete Employee Data Analysis Project using Tableau<br><br>
 
 ## ABOUT PROJECT :
 
