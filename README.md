@@ -1,6 +1,7 @@
 # HR-Analytics-Dashboard-Using-Tableau <br><br>
 
-![HR Analytics](https://user-images.githubusercontent.com/124501309/227756844-5972e656-be9a-4c97-a0a0-ef5aae750a12.png) <br><br><br>
+<img src="https://github.com/AkashParashar1/HR-Analytics-Dashboard/assets/137527458/94c010df-224d-47ae-ab38-e894efd7dd20" alt="HR GIF" style="height: 450px;">
+
 
 ## PROJECT NAME :<br>
 
